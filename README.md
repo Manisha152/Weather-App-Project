@@ -13,8 +13,7 @@ This Weather App is a Python project that allows users to fetch and display weat
 
 To run the project, use the following command: python ./index.py.
 
-
-![image](https://github.com/Manisha152/sql_query_hackerrank_soln/assets/87291128/641a815d-40ee-416c-a0a8-929b51815f9a)
+![image](https://github.com/Manisha152/Weather-App-Project/assets/87291128/f23ab1fa-2a31-4f74-b9ee-35016c8daefe)
 
 
 
