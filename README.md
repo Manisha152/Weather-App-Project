@@ -5,10 +5,10 @@ This Weather App is a Python project that allows users to fetch and display weat
 
 # Features
 
-Input a city name to retrieve weather information.
-Retrieves weather data from OpenWeatherMap API.
-Provides details such as temperature, country, sunrise, sunset, visibility, and weather description.
-Error handling for unsuccessful requests or invalid city names.
+- Input a city name to retrieve weather information.
+- Retrieves weather data from OpenWeatherMap API.
+- Provides details such as temperature, country, sunrise, sunset, visibility, and weather description.
+- Error handling for unsuccessful requests or invalid city names.
 
 
 To run the project, use the following command: python ./index.py.
